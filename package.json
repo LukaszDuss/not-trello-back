@@ -1,0 +1,27 @@
+{
+  "name": "not-trello-backend",
+  "version": "1.0.0",
+  "description": "node.js\r express.js\r postgreSQL\r nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszDuss/not-trello-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszDuss/not-trello-backend/issues"
+  },
+  "homepage": "https://github.com/LukaszDuss/not-trello-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
